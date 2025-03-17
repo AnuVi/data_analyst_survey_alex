@@ -1,3 +1,9 @@
+- [Source](#source)
+- [Tools](#tools)
+- [Result](#result)
+  * [Dashboard](#dashboard)
+  * [Cleaned data](#cleaned--data)
+
 # Source
 - Full Power BI Guided Project | Microsoft Power BI for Beginners (https://www.youtube.com/watch?v=pixlHHe_lNQ&t=1008s)
 - Data-set: https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
